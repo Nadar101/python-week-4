@@ -1,7 +1,8 @@
-# PLP Python Week 4 - Grades, Eligibility & Smart Decisions
+# Budget Tracker
 
-`welcome.py` contains a `welcome()` function that returns a personalized PLP greeting.
+This project is a Budget Tracker built with HTML and CSS.
 
-`toolbox.py` contains the `double()`, `is_pass()`, and `greet()` functions.
+* `index.html` — Contains the expense table, form, image, video, and interactive section.
+* `style.css` — Contains the page styling, table styles, hover effects, and advanced CSS selectors.
 
-The hardest function to write was `greet()` because it uses a default parameter while also creating a formatted greeting. It was useful practice for understanding how default values work in Python.
+The hardest part was the advanced CSS selectors because they required understanding how different selectors target specific elements.
